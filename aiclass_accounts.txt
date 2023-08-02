@@ -1,0 +1,13 @@
+next portal
+facebook
+linkedin
+fiverr
+select a project
+
+create a  wesbpage and insert your data
+result: cv word file
+use apis 
+use python docs library
+use chatgdp api
+
+hw: langchain library
